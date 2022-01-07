@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "index": 15, "ZillowName": "Cedar Park" }, "geometry": { "type": "Point", "coordinates": [ -75.219911418531055, 39.947751799980416 ] } },
+{ "type": "Feature", "properties": { "index": 28, "ZillowName": "East Kensington" }, "geometry": { "type": "Point", "coordinates": [ -75.127555480285835, 39.984447705443081 ] } },
+{ "type": "Feature", "properties": { "index": 32, "ZillowName": "East Passyunk" }, "geometry": { "type": "Point", "coordinates": [ -75.163718581885092, 39.927003757674861 ] } },
+{ "type": "Feature", "properties": { "index": 33, "ZillowName": "East Poplar" }, "geometry": { "type": "Point", "coordinates": [ -75.149548634178615, 39.965987275581313 ] } },
+{ "type": "Feature", "properties": { "index": 37, "ZillowName": "Fairmount" }, "geometry": { "type": "Point", "coordinates": [ -75.177924158714177, 39.97090629389151 ] } },
+{ "type": "Feature", "properties": { "index": 40, "ZillowName": "Fishtown" }, "geometry": { "type": "Point", "coordinates": [ -75.12484571653755, 39.972990545537222 ] } },
+{ "type": "Feature", "properties": { "index": 57, "ZillowName": "Graduate Hospital" }, "geometry": { "type": "Point", "coordinates": [ -75.178090552370378, 39.942102396608469 ] } },
+{ "type": "Feature", "properties": { "index": 58, "ZillowName": "Grays Ferry" }, "geometry": { "type": "Point", "coordinates": [ -75.1946884436381, 39.933858328738062 ] } },
+{ "type": "Feature", "properties": { "index": 94, "ZillowName": "Northern Liberties" }, "geometry": { "type": "Point", "coordinates": [ -75.139350924128124, 39.963167310471093 ] } },
+{ "type": "Feature", "properties": { "index": 98, "ZillowName": "Old Kensington" }, "geometry": { "type": "Point", "coordinates": [ -75.140599324387807, 39.973052759764983 ] } },
+{ "type": "Feature", "properties": { "index": 102, "ZillowName": "Packer Park" }, "geometry": { "type": "Point", "coordinates": [ -75.183437705594585, 39.905823166122765 ] } },
+{ "type": "Feature", "properties": { "index": 105, "ZillowName": "Passyunk Square" }, "geometry": { "type": "Point", "coordinates": [ -75.161920344602621, 39.933365978220074 ] } },
+{ "type": "Feature", "properties": { "index": 106, "ZillowName": "Pennsport" }, "geometry": { "type": "Point", "coordinates": [ -75.149389062441685, 39.927974445380627 ] } },
+{ "type": "Feature", "properties": { "index": 113, "ZillowName": "Powelton" }, "geometry": { "type": "Point", "coordinates": [ -75.191721605946825, 39.960404562910213 ] } },
+{ "type": "Feature", "properties": { "index": 139, "ZillowName": "West Kensington" }, "geometry": { "type": "Point", "coordinates": [ -75.137543300625524, 39.984296312254472 ] } },
+{ "type": "Feature", "properties": { "index": 143, "ZillowName": "West Passyunk" }, "geometry": { "type": "Point", "coordinates": [ -75.181362596929006, 39.926421126264991 ] } }
+]
+}
